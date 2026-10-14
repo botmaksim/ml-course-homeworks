@@ -4,7 +4,6 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)](https://python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626.svg)](https://jupyter.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-F7931E.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An academic repository comprising practical laboratory notebooks and algorithm implementations from the Machine Learning curriculum at Belarusian State University, Faculty of Applied Mathematics and Computer Science. Maintained as an open educational archive.
 
@@ -81,9 +80,3 @@ ml-course-homeworks/
 ├── boosting.ipynb          # Gradient boosting and ensemble analysis
 └── README.md
 ```
-
----
-
-## License
-
-This repository is distributed under the [MIT License](LICENSE).
